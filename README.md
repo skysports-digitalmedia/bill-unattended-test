@@ -11,12 +11,11 @@ To display a customer's Sky bill
 ```
 http://safe-plains-5453.herokuapp.com/bill.json
 ```
-* JSON must be consumed by a server acting as a proxy.
 * Provide a README on how to run your app or, if you deploy it online, a URL to your app. 
 
 ## What we're looking for
 
-* TDD/BDD
+* TDD
 * Simple and eloquent code
 * Knowledge of front end development
 * Bill should be easy to understand (good user experience)
